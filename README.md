@@ -9,6 +9,7 @@ Descargar el video para la demostración
 - Capacitor de 470uF de 10v - 35v
 - Cable Auxiliar
 - Cable USB
+- Speaker de 4 a 8 Ω
 
 ## Diagrama
 
