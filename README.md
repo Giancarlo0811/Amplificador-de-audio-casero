@@ -16,7 +16,7 @@ Mini amplificador de audio casero usando transistores BC337 y BC327.
 ![alt text](./Circuito.PNG)
 
 ## Montaje final
-Para ver la demostración hacer click en la primera imagen para descargar el video.
+Para ver la demostración hacer click en la imagen de abajo para descargar el video.
 
 [![Watch the video](https://raw.githubusercontent.com/Giancarlo0811/Amplificador-de-audio-casero/main/montaje1.jpg)](https://raw.githubusercontent.com/Giancarlo0811/Amplificador-de-audio-casero/main/video-demostracion.mp4)
 
